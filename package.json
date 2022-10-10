@@ -4,6 +4,16 @@
   "description": "",
   "version": "0.0.1",
   "publisher": "MabeDiaby",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MabeDiaby/VSCodeThemeNerdyDark"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "nerdy dark theme",
+    "mabe diaby"
+  ],
   "engines": {
     "vscode": "^1.71.0"
   },
