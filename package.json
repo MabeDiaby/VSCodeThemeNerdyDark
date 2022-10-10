@@ -3,6 +3,7 @@
   "displayName": "NerdyDark",
   "description": "",
   "version": "0.0.1",
+  "publisher": "MabeDiaby",
   "engines": {
     "vscode": "^1.71.0"
   },
